@@ -1,12 +1,20 @@
 Привет! Меня зовут Куаныш 👋
 
-Изучаю Java и backend-разработку.
+Начинающий Java Developer.
 
-Сейчас изучаю:
-- Java Core
-- Git и GitHub
-- SQL
-- Spring Boot
+Сейчас изучаю
 
-Цель:
-Стать Java Backend Developer.
+* Java Core
+* Git и GitHub
+* SQL
+* Spring Boot
+
+Мои цели
+
+* Освоить Backend-разработку на Java
+* Создать собственные проекты
+* Получить первую работу Junior Java Developer
+
+Мои проекты
+
+Скоро здесь появятся мои проекты на Java 🚀
